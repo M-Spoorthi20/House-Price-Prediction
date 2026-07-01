@@ -90,6 +90,3 @@ parking, prefarea, furnishingstatus
 - Advanced Ensemble Models
 - Deployment as a Web Application
 
-## Author
-
-Manvitha Reddy
